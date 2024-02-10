@@ -15,4 +15,9 @@ package casetools_isa1_set6;
 		
 	}
 	
+	
+	String getType()
+	{
+		return name;
+	}
 }
